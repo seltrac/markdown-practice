@@ -12,7 +12,7 @@ curl -L \
   https://api.github.com/repos/OWNER/REPO/releases
 ```
 
-Here you need to fill in `<YOUR-TOKEN`, and replace the names `OWNER` and `REPO` to actual owner and repo names.
+Here you need to fill in `<YOUR-TOKEN>`, and replace the names `OWNER` and `REPO` to actual owner and repo names.
 
 > Note: If you want to get releases of a _public repository_, your authentication token may be omitted and the command will still work.
 >
