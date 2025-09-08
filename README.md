@@ -1,5 +1,9 @@
 # MarkDown Practice
 
+## Basic Formatting
+
+* [Lists](<./Lists.md>)
+
 ## GitHub
 
 * [GitHub REST API](https://docs.github.com/en/rest)
